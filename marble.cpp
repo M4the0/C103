@@ -78,7 +78,7 @@ int main(){
         }
 
         //Ordenar
-        quicksort(m,0,N-1);
+        quickSort(m,0,N-1);
 
         cout<<"CASE# " << count << ";" <<endl;
 
