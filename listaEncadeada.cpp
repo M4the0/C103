@@ -7,6 +7,7 @@ using namespace std;
 
 //Definicao do dado que sera salvo na lista
 //Conhecido como node (noh em portugues)
+
 struct Node{  
     int dado;
     Node* proxNode;
@@ -70,7 +71,11 @@ public:
         }
 
     }
-    void removeInicio(){}
+    void removeInicio(){
+
+
+
+    }
     void removeFim(){}
     void mostrarElementos(){
         Node* aux = cabeca;
@@ -105,3 +110,36 @@ int main(){
 
     return 0;
 }
+
+/*
+
+    listaEnadeada::listaEncadeada()
+
+    void listaEncadeada::removeInicio(){
+
+    }
+
+    void lisEncadeada::removeElementoUnico(){
+
+        Node* aux = cabeca;
+        delete
+
+        cabeca = NULL;
+        cauda = NULL;
+            
+    }
+
+    void listaEncadeada::removerFim(){
+
+         if(listaVazia()){
+            removeElementoUnico();
+
+        }else{
+            
+            Node* anterior = cabeca;
+            
+            
+        }
+    }   
+ 
+*/
