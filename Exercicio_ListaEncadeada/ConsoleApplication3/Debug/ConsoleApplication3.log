@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Luciano\Desktop\teste\ExListaEncadeada\ConsoleApplication3\main.cpp(8,9): warning C4101: 'numElementoLista': variável local não referenciada
+  ListEnc.cpp
+  Gerando Código...
+  LINK : C:\Users\Luciano\Desktop\teste\ExListaEncadeada\Debug\ConsoleApplication3.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  ConsoleApplication3.vcxproj -> C:\Users\Luciano\Desktop\teste\ExListaEncadeada\Debug\ConsoleApplication3.exe
